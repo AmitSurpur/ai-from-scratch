@@ -1,10 +1,12 @@
 # AI From Scratch
 
-Welcome — this site documents ML and DL algorithms implemented **from scratch** in multiple languages and runtimes:
-**Python → C++ → CUDA → Triton**.
+Welcome! I'm **Amit**, and I built this site as a personal project to deeply understand Machine Learning and Deep Learning by **implementing core algorithms entirely from scratch**.
 
-Use the **Projects** section to add implementations and tutorials.
+This space is meant to be a hands-on companion for anyone exploring ML/DL fundamentals. Whether you're revising concepts, learning how things work under the hood, or building your own implementations, I hope you find these resources valuable.
 
-## Quick links
-- Projects: see `/docs/projects`
-- Roadmap: see the roadmap page
+## Key Sections
+- **Projects** → `/docs/projects`  
+  Explore step-by-step implementations of ML/DL algorithms from scratch.
+- **Roadmap** → See the Roadmap page  
+  A structured learning path designed for beginners and self-learners.
+
