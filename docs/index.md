@@ -1,4 +1,7 @@
-![Profile](img/profile.png){ width="200" }
+theme:
+  name: material
+  logo: img/profile.png
+  favicon: img/profile.png
 # AI From Scratch
 
 Welcome! I'm **Amit**, and I built this site as a personal project to deeply understand Machine Learning and Deep Learning by **implementing core algorithms entirely from scratch**.
