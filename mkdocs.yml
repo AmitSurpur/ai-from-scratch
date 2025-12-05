@@ -12,7 +12,8 @@ theme:
 nav:
   - Home: index.md
   - Projects:
-      - Linear Regression: projects/linear-regression.md
+	- Introduction: projects/Introduction.md
+  	- Linear Regression: projects/linear-regression.md
   - Roadmap: roadmap.md
 markdown_extensions:
   - admonition
