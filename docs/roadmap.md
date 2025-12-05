@@ -1,6 +1,12 @@
 # Roadmap
 
 A personal roadmap to implement **everything from basic math to transformers/LLMs**.
+
+All implementations in this project are written from scratch without using any LLM assistance for the code itself.
+The plan, structure, and learning roadmap were generated earlier with the help of an LLM — but the logic, algorithms, and code are entirely human-written, line by line.
+
+This way I can fully understand every component, verify each step mathematically, and build a genuine foundation rather than copy-paste solutions.
+
 I would update this checklist with time......
 
 ---
