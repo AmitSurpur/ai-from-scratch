@@ -21,10 +21,10 @@ I would update this checklist with time......
 - [ ] Implement numerical gradient for multivariate functions
 
 - [ ] Implement random number generators:
-  -- [ ] Uniform [0,1)
-  -- [ ] Gaussian (Box–Muller)
-  -- [ ] Bernoulli(p)
-  -- [ ] Sampling from a discrete distribution
+	- [ ] Uniform [0,1)
+	- [ ] Gaussian (Box–Muller)
+	- [ ] Bernoulli(p)
+	- [ ] Sampling from a discrete distribution
 
 ---
 <!--
