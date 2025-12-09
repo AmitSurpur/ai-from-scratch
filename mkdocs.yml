@@ -5,6 +5,7 @@ repo_url: https://github.com/AmitSurpur/ai-from-scratch
 
 theme:
   name: material
+  logo: img/profile.png
   features:
     - navigation.tabs
     - navigation.sections
