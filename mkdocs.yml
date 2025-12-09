@@ -44,6 +44,7 @@ markdown_extensions:
       permalink: true
 
 extra:
+  logo: img/profile.png
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/AmitSurpur
