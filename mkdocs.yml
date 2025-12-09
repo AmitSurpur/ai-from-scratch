@@ -5,9 +5,24 @@ repo_url: https://github.com/AmitSurpur/ai-from-scratch
 
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - search.highlight
+    - search.suggest
+    - header.autohide
+    - content.code.annotate
   palette:
-    primary: indigo
-    accent: indigo
+    - scheme: default
+      primary: indigo
+      accent: purple
+    - scheme: slate
+      primary: indigo
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
   font:
     text: Roboto
 
@@ -15,6 +30,9 @@ nav:
   - Home: index.md
   - Projects:
       - Introduction: projects/Introduction.md
+          -Vector: projects/Introduction/Vector.md
+          -Matrix: projects/Introduction/Matrix.md
+      -LU Decomposition: projects/LU.md
       - Linear Regression: projects/linear-regression.md
   - Roadmap: roadmap.md
 
